@@ -1,0 +1,20 @@
+* {
+  font-family: serif;
+}
+body {
+  background-color: cadetblue;
+  text-align: center;
+}
+button {
+  color: black;
+  background-color: burlywood;
+}
+.time-table {
+  color: black;
+  background-color: wheat;
+  font-size: larger;
+  margin: auto;
+  margin-top: 50px;
+  width: 200px;
+  height: 250px;
+}
